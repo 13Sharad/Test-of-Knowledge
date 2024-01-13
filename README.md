@@ -1,2 +1,2 @@
 # Test-of-Knowledge
-I have done Quiz App Using HTML,CSS and JavaScript
+I have done Quiz App Using HTML,CSS and JavaScript Technology.
